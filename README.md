@@ -93,10 +93,10 @@ I architect systems that handle **millions of transactions daily**, including **
 ```mermaid
 timeline
     title Career Progression
-    2017-2018    : TO THE NEW
+    2016-2017    : TO THE NEW
                  : DevOps Engineer
                  : 75% deployment time reduction
-    2018-2019    : Paytm
+    2017-2019    : Paytm
                  : DevOps Engineer  
                  : 4000-core OpenStack cluster
     2019-2021    : Tokopedia
