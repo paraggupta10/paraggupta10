@@ -10,7 +10,7 @@
 
 ## 🚀 **Transforming Infrastructure Challenges into Elegant Solutions**
 
-**Computer Scientist II/I @ Adobe** | **9+ Years Experience** | **AI Patent Holder**
+**Computer Scientist II @ Adobe** | **9+ Years Experience** | **AI Patent Holder**
 
 I architect systems that handle **millions of transactions daily**, including **4000-core OpenStack clusters** and **AI-powered monitoring solutions** that reduced incident response time by **40%**. My approach combines technical expertise with business awareness, having delivered over **$500K in cost optimizations** while improving system reliability.
 
